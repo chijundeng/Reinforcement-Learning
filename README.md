@@ -1,1 +1,3 @@
 # Reinforcement-Learning
+The way from a rookie to a master in reinforcement learning.
+There's still a long way to go...
